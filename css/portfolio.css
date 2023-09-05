@@ -6,7 +6,7 @@
 }
 @font-face{
     font-family: "Barlow";
-    src: url("../fonts/Barlow-Regular.otf") format("opentype");
+    src: url("../fonts/Barlow-Regular.ttf") format("truetype");
 }
 * {
     margin: 0;
